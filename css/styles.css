@@ -7,3 +7,63 @@ body {
 ul {
     list-style-type: none;
 }
+
+.top-line {}
+
+.nav {}
+
+.nav-logo-web {}
+
+.nav-logo-studio {}
+
+.nav-list {}
+
+.nav-link {}
+
+.address {}
+
+.address-list {}
+
+.address-link {}
+
+.hero {}
+
+.active {}
+
+.benefits {}
+
+.benefits-list {}
+
+.benefits-list-title {}
+
+.benefits-list-text {}
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-sub-title {}
+
+.team-text {}
+
+.portfolio {}
+
+.portfolio-title {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-sub-title {}
+
+.portfolio-text {}
+
+.footer {}
+
+.footer-logo {}
+
+.footer-text {}
