@@ -41,18 +41,20 @@ ul {
     color: #2e2f42;
     text-decoration: none;
     cursor: pointer;
+
 }
 
-.nav-link .link:hover,
-.nav-link .link:focus,
-.nav-link .link:active {
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active {
     color: #404bbf;
 }
 
-.address {}
+.address {
+    font-style: normal;
+}
 
 .address-link {
-    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -61,8 +63,8 @@ ul {
     cursor: pointer;
 }
 
-.address-link .link:hover,
-.address-link .link:focus {
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
     text-decoration: none;
 }
